@@ -1,6 +1,6 @@
 {
-   "responseCode":200,
-   "responseMessage":"",
+   "status_code":200,
+   "status_message":"",
    "data":{
       "title":"สายกิจการ สาขา 1",
       "items":[
