@@ -27,50 +27,41 @@
                         "loanRemaining": "1,248.36",
                         "pointIncreaseing": "7.00",
                         "loanIncreaseing": "187.60",
-                        "subset": [
+                        "ports": [
                             {
-                                "topic": "ธุรกิจและภาครัฐ",
-                                "pointRemaining": "9.52",
-                                "loanRemaining": "1,248.36",
-                                "pointIncreaseing": "7.00",
-                                "loanIncreaseing": "187.60"
+                                "topic": "สินเชื่อ Factoring",
+                                "pointRemaining": "0.43",
+                                "loanRemaining": "173.43",
+                                "pointIncreaseing": "0.63",
+                                "loanIncreaseing": "0.12"
                             },
                             {
-                                "topic": "ธุรกิจและภาครัฐ",
-                                "pointRemaining": "9.52",
-                                "loanRemaining": "1,248.36",
-                                "pointIncreaseing": "7.00",
-                                "loanIncreaseing": "187.60"
+                                "topic": "สินเชื่อ PNF",
+                                "pointRemaining": "0.00",
+                                "loanRemaining": "0.00",
+                                "pointIncreaseing": "0.00",
+                                "loanIncreaseing": "0.00"
                             },
                             {
-                                "topic": "ธุรกิจและภาครัฐ",
-                                "pointRemaining": "9.52",
-                                "loanRemaining": "1,248.36",
-                                "pointIncreaseing": "7.00",
-                                "loanIncreaseing": "187.60"
-                            }
-                        ]
-                    },
-                    {
-                        "topic": "ธุรกิจและภาครัฐ",
-                        "pointRemaining": "9.52",
-                        "loanRemaining": "1,248.36",
-                        "pointIncreaseing": "7.00",
-                        "loanIncreaseing": "187.60",
-                        "subset": [
-                            {
-                                "topic": "ธุรกิจและภาครัฐ",
-                                "pointRemaining": "9.52",
-                                "loanRemaining": "1,248.36",
-                                "pointIncreaseing": "7.00",
-                                "loanIncreaseing": "187.60"
+                                "topic": "สินเชื่อ SMEs 20-100 ล้านบาท",
+                                "pointRemaining": "3.22",
+                                "loanRemaining": "364.79",
+                                "pointIncreaseing": "2.51",
+                                "loanIncreaseing": "68.44"
                             },
                             {
-                                "topic": "ธุรกิจและภาครัฐ",
-                                "pointRemaining": "9.52",
-                                "loanRemaining": "1,248.36",
-                                "pointIncreaseing": "7.00",
-                                "loanIncreaseing": "187.60"
+                                "topic": "สินเชื่อ SMEs Start-up(น้อยกว่า 20 ล้านบาท)",
+                                "pointRemaining": "5.79",
+                                "loanRemaining": "681.02",
+                                "pointIncreaseing": "3.74",
+                                "loanIncreaseing": "108.69"
+                            },
+                            {
+                                "topic": "สืนเชื่อ การค้าต่างประเทศ",
+                                "pointRemaining": "0.08",
+                                "loanRemaining": "29.12",
+                                "pointIncreaseing": "0.12",
+                                "loanIncreaseing": "10.35"
                             }
                         ]
                     }
@@ -85,10 +76,7 @@
                 "subset": [
                     {
                         "topic": "Standard Fee",
-                        "pointRemaining": "2.67",
-                        "loanRemaining": null,
-                        "pointIncreaseing": null,
-                        "loanIncreaseing": null
+                        "pointRemaining": "2.67"
                     }
                 ]
             },
