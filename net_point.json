@@ -1,0 +1,117 @@
+{
+    "data": {
+        "parentOrg": {
+            "name": "สำนักสินเชื่อธุรกิจลูกค้า SMEs 1",
+            "orgId": "15001411",
+            "level": 40
+        },
+        "currentMonth": "ข้อมูลสะสม ม.ค. - มี.ค. 2562",
+        "rank": [
+            {
+                "typeRank": "Rank by All SMEs",
+                "all": "18",
+                "current": "2"
+            }
+        ],
+        "items": [
+            {
+                "topic": "สินเชื่อ",
+                "image": "http://10.4.9.61/upload/performance/NetPoint/NetPoint.png",
+                "point": "16.52",
+                "unit": "ล้านPoint",
+                "columnData": 2,
+                "subset": [
+                    {
+                        "topic": "ธุรกิจและภาครัฐ",
+                        "pointRemaining": "9.52",
+                        "loanRemaining": "1,248.36",
+                        "pointIncreaseing": "7.00",
+                        "loanIncreaseing": "187.60",
+                        "subset": [
+                            {
+                                "topic": "ธุรกิจและภาครัฐ",
+                                "pointRemaining": "9.52",
+                                "loanRemaining": "1,248.36",
+                                "pointIncreaseing": "7.00",
+                                "loanIncreaseing": "187.60"
+                            },
+                            {
+                                "topic": "ธุรกิจและภาครัฐ",
+                                "pointRemaining": "9.52",
+                                "loanRemaining": "1,248.36",
+                                "pointIncreaseing": "7.00",
+                                "loanIncreaseing": "187.60"
+                            },
+                            {
+                                "topic": "ธุรกิจและภาครัฐ",
+                                "pointRemaining": "9.52",
+                                "loanRemaining": "1,248.36",
+                                "pointIncreaseing": "7.00",
+                                "loanIncreaseing": "187.60"
+                            }
+                        ]
+                    },
+                    {
+                        "topic": "ธุรกิจและภาครัฐ",
+                        "pointRemaining": "9.52",
+                        "loanRemaining": "1,248.36",
+                        "pointIncreaseing": "7.00",
+                        "loanIncreaseing": "187.60",
+                        "subset": [
+                            {
+                                "topic": "ธุรกิจและภาครัฐ",
+                                "pointRemaining": "9.52",
+                                "loanRemaining": "1,248.36",
+                                "pointIncreaseing": "7.00",
+                                "loanIncreaseing": "187.60"
+                            },
+                            {
+                                "topic": "ธุรกิจและภาครัฐ",
+                                "pointRemaining": "9.52",
+                                "loanRemaining": "1,248.36",
+                                "pointIncreaseing": "7.00",
+                                "loanIncreaseing": "187.60"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "topic": "รายได้ค่าธรรมเนียม",
+                "image": "http://10.4.9.61/upload/performance/NetPoint/Income.png",
+                "point": "2.67",
+                "unit": "ล้านPoint",
+                "columnData": 1,
+                "subset": [
+                    {
+                        "topic": "Standard Fee",
+                        "pointRemaining": "2.67",
+                        "loanRemaining": null,
+                        "pointIncreaseing": null,
+                        "loanIncreaseing": null
+                    }
+                ]
+            },
+            {
+                "topic": "ค่าใช้จ่าย",
+                "image": "http://10.4.9.61/upload/performance/NetPoint/Expenses.png",
+                "point": "-2.40",
+                "unit": "ล้านPoint",
+                "columnData": 0,
+                "subset": null
+            },
+            {
+                "topic": "หนี้สูญ/สงสัยจะสูญ",
+                "image": "http://10.4.9.61/upload/performance/NetPoint/Loan.png",
+                "point": "2.28",
+                "unit": "ล้านPoint",
+                "columnData": 0,
+                "subset": null
+            }
+        ],
+        "totalTarget": "94.88 ล้านPoint",
+        "totalPoint": "19.07 ล้านPoint"
+    },
+    "status_code": 200,
+    "status_message": "Success"
+}
