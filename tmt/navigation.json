@@ -4,198 +4,37 @@
   "data":
   [
       {
-          id: 'product_1',
-          title: 'Project 1',
-          type: 'collapsable',
-          icon: 'dvr',
-          children: [
+          "id": "product_1",
+          "title": "Project 1",
+          "type": "collapsable",
+          "icon": "dvr",
+          "children": [
               {
-                  id: 'scenario_1',
-                  title: 'Scenario 1',
-                  type: 'collapsable',
-                  icon: 'dvr',
-                  children: [
+                  "id": "scenario_1",
+                  "title": "Scenario 1",
+                  "type": "collapsable",
+                  "icon": "dvr",
+                  "children": [
                       {
-                          id: 'data_model',
-                          title: 'Data Model',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/data_model'
+                          "id": "data_model",
+                          "title": "Data Model",
+                          "type": "item",
+                          "icon": "dvr",
+                          "url": "/product/scenario/data_model"
                       },
                       {
-                          id: 'result',
-                          title: 'Result',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/result'
+                          "id": "result",
+                          "title": "Result",
+                          "type": "item",
+                          "icon": "dvr",
+                          "url": "/product/scenario/result"
                       },
                       {
-                          id: 'dashboard',
-                          title: 'Dashboard',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/dashboard'
-                      }
-                  ]
-              },
-              {
-                  id: 'scenario_1',
-                  title: 'Scenario 1',
-                  type: 'collapsable',
-                  icon: 'dvr',
-                  children: [
-                      {
-                          id: 'data_model',
-                          title: 'Data Model',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/data_model'
-                      },
-                      {
-                          id: 'result',
-                          title: 'Result',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/result'
-                      },
-                      {
-                          id: 'dashboard',
-                          title: 'Dashboard',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/dashboard'
-                      }
-                  ]
-              }
-          ]
-      },
-      {
-          id: 'product_1',
-          title: 'Project 1',
-          type: 'collapsable',
-          icon: 'dvr',
-          children: [
-              {
-                  id: 'scenario_1',
-                  title: 'Scenario 1',
-                  type: 'collapsable',
-                  icon: 'dvr',
-                  children: [
-                      {
-                          id: 'data_model',
-                          title: 'Data Model',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/data_model'
-                      },
-                      {
-                          id: 'result',
-                          title: 'Result',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/result'
-                      },
-                      {
-                          id: 'dashboard',
-                          title: 'Dashboard',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/dashboard'
-                      }
-                  ]
-              }
-          ]
-      },
-      {
-          id: 'product_1',
-          title: 'Project 1',
-          type: 'collapsable',
-          icon: 'dvr',
-          children: [
-              {
-                  id: 'scenario_1',
-                  title: 'Scenario 1',
-                  type: 'collapsable',
-                  icon: 'dvr',
-                  children: [
-                      {
-                          id: 'data_model',
-                          title: 'Data Model',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/data_model'
-                      },
-                      {
-                          id: 'result',
-                          title: 'Result',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/result'
-                      },
-                      {
-                          id: 'dashboard',
-                          title: 'Dashboard',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/dashboard'
-                      }
-                  ]
-              },
-              {
-                  id: 'scenario_1',
-                  title: 'Scenario 1',
-                  type: 'collapsable',
-                  icon: 'dvr',
-                  children: [
-                      {
-                          id: 'data_model',
-                          title: 'Data Model',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/data_model'
-                      },
-                      {
-                          id: 'result',
-                          title: 'Result',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/result'
-                      },
-                      {
-                          id: 'dashboard',
-                          title: 'Dashboard',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/dashboard'
-                      }
-                  ]
-              },
-              {
-                  id: 'scenario_1',
-                  title: 'Scenario 1',
-                  type: 'collapsable',
-                  icon: 'dvr',
-                  children: [
-                      {
-                          id: 'data_model',
-                          title: 'Data Model',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/data_model'
-                      },
-                      {
-                          id: 'result',
-                          title: 'Result',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/result'
-                      },
-                      {
-                          id: 'dashboard',
-                          title: 'Dashboard',
-                          type: 'item',
-                          icon: 'dvr',
-                          url: '/product/scenario/dashboard'
+                          "id": "dashboard",
+                          "title": "Dashboard",
+                          "type": "item",
+                          "icon": "dvr",
+                          "url": "/product/scenario/dashboard"
                       }
                   ]
               }
