@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "userName": "slbirc",
+        "name": "slbirc",
         "photos": [
             {
                 "id": 1,
@@ -67,7 +67,7 @@
     },
     {
         "id": 2,
-        "userName": "swewin",
+        "name": "swewin",
         "photos": [
             {
                 "id": 11,
@@ -133,7 +133,7 @@
     },
     {
         "id": 3,
-        "userName": "wjalbe",
+        "name": "wjalbe",
         "photos": [
             {
                 "id": 21,
@@ -199,7 +199,7 @@
     },
     {
         "id": 4,
-        "userName": "robin",
+        "name": "robin",
         "photos": [
             {
                 "id": 31,
@@ -265,7 +265,7 @@
     },
     {
         "id": 5,
-        "userName": "voudcx",
+        "name": "voudcx",
         "photos": [
             {
                 "id": 41,
