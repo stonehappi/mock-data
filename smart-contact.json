@@ -1,0 +1,27 @@
+{
+        "name": "John Doe",
+        "phone": "0123456789",
+        "title": "ITer",
+        "photo": "https://marketplace.canva.com/EAFQud1wRig/1/0/1600w/canva-professional-linkedin-profile-picture-QDDX6c-STKE.jpg",
+        "organization": "RUPP",
+        "emails": [
+            {
+                "type": "personal",
+                "email": "personal@gmail.com"
+            },
+            {
+                "type": "work",
+                "email": "work@gmail.com"
+            }
+        ],
+        "socials": [
+            {
+                "type": "facebook",
+                "url": "https://facebook.com/johndoe"
+            },
+            {
+                "type": "linkedin",
+                "url": "https://linkedin.com/johndoe"
+            }
+        ]
+    }
