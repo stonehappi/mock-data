@@ -1,0 +1,13 @@
+[
+  {
+    "department":"SCA",
+    "firstname":"Seng",
+    "lastname":"Vannak",
+    "position":"Lecturer",
+    "faculty":"FE",
+    "phone":"",
+    "emails": ["seng.vannak@edu.rupp.edu"],
+    "address": "",
+    "website": ""
+  }
+]
