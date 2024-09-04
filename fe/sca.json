@@ -34,8 +34,8 @@
   },
   {
     "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
-    "firstname":"DA GNEAN",
-    "lastname":"Nak",
+    "firstname":"Da",
+    "lastname":"Gnean Nak",
     "position":"Lecturer",
     "faculty":"Faculty of Engineering",
     "phones":["+855 (0) 77 758 000"],
@@ -49,8 +49,8 @@
     "lastname":"Sophy",
     "position":"Lecturer",
     "faculty":"Faculty of Engineering",
-    "phones":["+855 (0) 16 33 1211"],
-    "emails": ["sounsophyitc@gmial.com"],
+    "phones":["+855 (0) 16 331 211"],
+    "emails": ["sounsophyitc@gmail.com"],
     "website": "www.fe.rupp.edu.kh",
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   },
@@ -60,7 +60,7 @@
     "lastname":"Putsaccada",
     "position":"Lecturer",
     "faculty":"Faculty of Engineering",
-    "phones":["+855 (0) 16 33 1211"],
+    "phones":["+855 (0) 78 727 085"],
     "emails": ["visethputsaccada@gmail.com"],
     "website": "www.fe.rupp.edu.kh",
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
@@ -71,8 +71,8 @@
     "lastname":"Nary",
     "position":"Lecturer",
     "faculty":"Faculty of Engineering",
-    "phones":["+855 (0) 98 753 5063"],
-    "emails": ["savournnary@gmail.com"],
+    "phones":["+855 (0) 86 539 268"],
+    "emails": ["savoeurnnary@gmail.com"],
     "website": "www.fe.rupp.edu.kh",
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   }
