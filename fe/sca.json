@@ -1,5 +1,6 @@
 [
    {
+    "code": "101",
     "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
     "firstname":"tieng",
     "lastname":"Kimseng, PhD",
@@ -11,6 +12,7 @@
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   },
   {
+    "code": "102",
     "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
     "firstname":"Liv",
     "lastname":"Yi, PhD",
@@ -22,6 +24,7 @@
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   },
   {
+    "code": "103",
     "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
     "firstname":"Seng",
     "lastname":"Vannak",
@@ -33,6 +36,7 @@
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   },
   {
+    "code": "104",
     "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
     "firstname":"Yone",
     "lastname":"Thearith",
@@ -44,6 +48,7 @@
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   },
   {
+    "code": "105",
     "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
     "firstname":"Da",
     "lastname":"Gnean Nak",
@@ -55,6 +60,7 @@
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   },
   {
+    "code": "106",
     "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
     "firstname":"Soun",
     "lastname":"Sophy",
@@ -66,6 +72,7 @@
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   },
   {
+    "code": "107",
     "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
     "firstname":"Viseth",
     "lastname":"Putsaccada",
@@ -77,6 +84,7 @@
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   },
   {
+    "code": "108",
     "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
     "firstname":"SAVOEURN",
     "lastname":"Nary",
@@ -84,6 +92,30 @@
     "faculty":"Faculty of Engineering",
     "phones":["+855 (0) 86 539 268"],
     "emails": ["savoeurnnary@gmail.com"],
+    "website": "www.fe.rupp.edu.kh",
+    "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
+  },
+  {
+    "code": "106",
+    "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
+    "firstname":"Neang",
+    "lastname":"Pi",
+    "position":"Assistant",
+    "faculty":"Faculty of Engineering",
+    "phones":["+855 (0) 88 506 0938"],
+    "emails": ["neang.pi.3422@rupp.edu.kh", "neangpi2021@gmail.com"],
+    "website": "www.fe.rupp.edu.kh",
+    "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
+  },
+  {
+    "code": "110",
+    "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
+    "firstname":"Vean",
+    "lastname":"Tith Theanet",
+    "position":"Assistant",
+    "faculty":"Faculty of Engineering",
+    "phones":["+855 (0) 97 25 16 700"],
+    "emails": ["veantiththeanet@gmail.com"],
     "website": "www.fe.rupp.edu.kh",
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   }
