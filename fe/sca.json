@@ -31,7 +31,7 @@
     "position":"Lecturer & Assistant",
     "faculty":"Faculty of Engineering",
     "phones":["+855 (0) 81 876 453"],
-    "emails": ["sent.vannak@rupp.edu.kh", "vannakseng1996@gmail.com"],
+    "emails": ["seng.vannak@rupp.edu.kh", "vannakseng1996@gmail.com"],
     "website": "www.fe.rupp.edu.kh",
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   },
@@ -96,7 +96,7 @@
     "address": "<span>Room 211, STEM Building, RUPP Russian </span><span>Federation Blvd, Toul Kork, Phnom Penh</span>"
   },
   {
-    "code": "106",
+    "code": "109",
     "department":"<span>Department of Automation</span><span>and Supply Chain Systems Engineering</span>",
     "firstname":"Neang",
     "lastname":"Pi",
