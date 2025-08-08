@@ -1,0 +1,12 @@
+{
+  "location": "Phnom Penh",
+  "date": "2025-08-08",
+  "temperature_c": 32,
+  "humidity_percent": 70,
+  "wind_kph": 12,
+  "forecast": [
+    {"time": "09:00", "temp_c": 30, "condition": "Sunny"},
+    {"time": "12:00", "temp_c": 33, "condition": "Partly Cloudy"},
+    {"time": "15:00", "temp_c": 32, "condition": "Rain Showers"}
+  ]
+}
